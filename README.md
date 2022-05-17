@@ -1,4 +1,4 @@
-# Places APp
+# Places App
 
 This application shows basic implementation of flutter features & native capabilities.
 
